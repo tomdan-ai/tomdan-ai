@@ -1,11 +1,15 @@
 <!-- <img width="100%" align="center" src="./images/wayungi.png" />
   -->
  #### Hi there 👋
- - My name is Tom Daniel
- - 🌱 I'm a full stack web developer currently open to new opportunities
- - 😄 I love Music, I follow tech related news and events
- - I do alot of ethical hacking and enjoy using the kali linux OS
- - 🤔 I'm looking to collaborate on  JavaScript, HTML/CSS projects
+ 
+ 
+ 
+ 
+ "Hello, my name is Tom Daniel. .. . "
+ - 🌱I am a full-stack web developer who is currently open to new opportunities
+ - 😄 I enjoy music and following tech-related news and events
+ - ⚡ Fun fact, I have experience with ethical hacking and enjoy using the Kali Linux OS
+ - 💻 I am interested in collaborating on JavaScript, HTML/CSS projects.
  
 #### Languages and Frameworks
 

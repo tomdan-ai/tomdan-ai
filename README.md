@@ -18,7 +18,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-%23E34F26.svg?style=for-the-badge&logo=electron&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=%231572B6)
+![Ruby](https://img.shields.io/badge/ruby-%23563D7C.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 #### Find me online at
 
